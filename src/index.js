@@ -3,7 +3,7 @@ const server = require('./services/server');
 const { initWsServer, getWsServer } = require('./services/socket');
 
 // listening to port...
-const port = 8080;
+const port = process.env.PORT || 8080;
 
 //Init SocketIo Server
 const init = async () => {
