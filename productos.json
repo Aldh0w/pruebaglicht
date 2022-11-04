@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"title": "cartuchera",
+		"price": 750,
+		"img": "https://i.postimg.cc/xdB6cS77/cartuchera.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Regla",
+		"price": 200,
+		"img": "https://i.postimg.cc/K8PG9Z77/regla.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Lapiceras",
+		"price": 650,
+		"img": "https://i.postimg.cc/j2yxGt0r/lapiceras.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Sacapunta",
+		"price": 320,
+		"img": "https://i.postimg.cc/x1p2pcJz/Sacapunta.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Mochila",
+		"price": 1500,
+		"img": "https://i.postimg.cc/L6qBgWkF/mochila.jpg"
+	}
+]

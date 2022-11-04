@@ -1,0 +1,23 @@
+{
+  "name": "after_01",
+  "version": "1.0.0",
+  "description": "Elegi utilizar ejs porque es uno de los mas utilizados, por lo cual siempre se estara actualizando y sera mas facil encontrar soluciones.\r Ademas, si bien al verlo escrito no es tan facil de leer utiliza la logica de igual manera que JavaScript por eso tambien me resulto mas facil adaptarlo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon  src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
